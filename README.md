@@ -1,5 +1,7 @@
 # UML-Sistem-Monitoring-Fasilitas-di-Rest-Area
 
+## *PB = Power Bank
+## *GPB = Gerai Power Bank
 Sistem yang akan dibuat merupakan sistem informasi berbasis website, yang berfungsi untuk memonitor fasilitas publik yang ada di beberapa rest area. Fasilitas yang tersedia berupa mushola atau masjid serta pengisi daya powerbank(PB) yang terkumpul di gerai powerbank (GPB). Sistem ini bernama SMFRA (Sistem Monitoring Fasilitas Rest Area). SMFRA terintegrasi dengan 2 sistem yaitu MusholaPintar dan PBPintar, sistem ini akan memberikan data-data realtime yang dapat mempermudah proses monitoring. Selain itu, sistem ini terhubung dengan CCTV yang terletak disemua fasilitas publik.
 
 SMFRA dapat memonitor keseluruhan aspek-aspek fasilitas public, diantaranya:
